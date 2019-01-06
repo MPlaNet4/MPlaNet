@@ -1,0 +1,2 @@
+javac mplanet/mpthemes/*.java
+
